@@ -2,7 +2,10 @@
 # Homework 3: Echo ChatBot Reflection
 
 ## How many hours did you spend working on this homework?
+1 day
 
 ## What challenges/roadblocks did you face during this homework?
+Formatting the chatbot and making sure the local storage was persistent was difficult.
 
 ## Did you use AI/LLM tools for this assignment? If so, please provide a transcript or document your usage extensively below. If you did use AI, please explain why you decided to use AI for the task you used it for, what you learned from the AI responses, and explain any relevant unfamiliar terms and concepts that the AI responses generated.
+N/A
